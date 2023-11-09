@@ -1,0 +1,44 @@
+{
+    "users": [
+      {
+        "name": "Alice Johnson",
+        "last_activity": "Posted a photo",
+        "picture": "https://images.pexels.com/photos/3796217/pexels-photo-3796217.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "story_picture": "https://images.pexels.com/photos/1407305/pexels-photo-1407305.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      {
+        "name": "Bob Smith",
+        "last_activity": "Shared a status update",
+        "picture": "https://images.pexels.com/photos/4307869/pexels-photo-4307869.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "story_picture": "https://images.pexels.com/photos/6140203/pexels-photo-6140203.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      {
+        "name": "Charlie Davis",
+        "last_activity": "Commented on a post",
+        "picture": "https://images.pexels.com/photos/5384445/pexels-photo-5384445.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "story_picture": "https://images.pexels.com/photos/15481505/pexels-photo-15481505/free-photo-of-cloudy-nyc-my-favorite-photo-of-all-time.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      {
+        "name": "Diana White",
+        "last_activity": "Liked a video",
+        "picture": "https://images.pexels.com/photos/4450359/pexels-photo-4450359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "story_picture": "https://images.pexels.com/photos/16441971/pexels-photo-16441971/free-photo-of-hand-holding-coffee-drink.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      }
+    ],
+    
+    "suggestionUser": [
+        {
+            "name": "Eva Brown",
+            "last_activity": "Shared a link",
+            "picture": "https://images.pexels.com/photos/6000065/pexels-photo-6000065.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "story_picture": "https://example.com/eva_story_picture.jpg"
+          },
+          {
+            "name": "Frank Miller",
+            "last_activity": "Updated their profile",
+            "picture": "https://images.pexels.com/photos/7116213/pexels-photo-7116213.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "story_picture": "https://example.com/frank_story_picture.jpg"
+          }
+    ]
+}
+  

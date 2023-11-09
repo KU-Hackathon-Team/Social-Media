@@ -29,11 +29,9 @@ function Login() {
     <div className="login">
       <div className="card">
         <div className="left">
-          <h1>Hello, World.</h1>
+          <h1>Welcome to Social Media.</h1>
           <p>
-            Amet id excepteur mollit officia irure aute Lorem enim irure. Aute n
-            velit commodo et. Officia exercitation dolor commodo commodo. Minim
-            est in ullamco est
+          Please enter your email address or username along with your password to access your account.
           </p>
           <span>Don't you have an account?</span>
           <Link to="/register">
