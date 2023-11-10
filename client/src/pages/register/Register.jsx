@@ -35,11 +35,9 @@ function Register() {
       <div className="register">
         <div className="card">
           <div className="left">
-            <h1>Hello, World.</h1>
+            <h1>Register.</h1>
             <p>
-              Amet id excepteur mollit officia irure aute Lorem enim irure. Aute
-              n velit commodo et. Officia exercitation dolor commodo commodo.
-              Minim est in ullamco est
+            Create your account to connect with friends, family, and others. Customize your profile, share updates, and join a global community of individuals with similar interests.
             </p>
             <span>Do you have an account?</span>
             <Link to="/login">
